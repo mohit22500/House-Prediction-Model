@@ -1,2 +1,3 @@
-# House-Prediction-Model
-This project predicts house prices using machine learning models based on features like carpet area, location, and ownership. It includes data preprocessing, handling missing values, and encoding categorical features. Models like Random Forest, Gradient Boosting, and XGBoost are trained, evaluated, and compared for accurate price prediction.
+# House_Price_Prediction_Model
+This project is a machine learning model aimed at predicting house prices based on several features such as carpet area, number of floors, ownership, and more. The dataset has been processed, and multiple regression models have been applied to predict the house prices accurately.
+
